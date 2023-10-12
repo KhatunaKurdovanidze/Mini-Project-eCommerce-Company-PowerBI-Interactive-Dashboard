@@ -2,7 +2,6 @@
 ---
 layout: post
 title: Mini Project - eCommerce Company PowerBI Interactive Dashboard 
-image: "/posts/path-digital-tR0jvlsmCuQ-unsplash.jpg"
 tags: [PowerBI]
 ---
 
@@ -31,7 +30,7 @@ I created a bar chart displaying the top 5 most profitable items: Full-Finger Gl
 #### Interactive Dashboard
 <iframe title="Dashboard day project" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=67ccd2f0-b1b4-4995-afdb-9f1a65317abd&autoAuth=true&ctid=15830474-cef0-4326-88db-96e5ab019d8a" frameborder="0" allowFullScreen="true"></iframe>
 
----
-Banner photo source: pathdigital/Unsplash
+
+
 
 
