@@ -1,9 +1,5 @@
 # Mini-Project-eCommerce-Company-PowerBI-Interactive-Dashboard
 ---
-layout: post
-title: Mini Project - eCommerce Company PowerBI Interactive Dashboard 
-tags: [PowerBI]
----
 
 In this mini project I analysed data of an eCommerce company. Because of the need to significantly increase inventory of the most profitable clothing items for the next season, I created a PowerBI dashboard and made recommendations based on my analysis as requested by the head of data and insights.
 
