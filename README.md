@@ -1,10 +1,5 @@
 # Mini-Project-eCommerce-Company-PowerBI-Interactive-Dashboard
 ---
-layout: post
-title: Mini Project - eCommerce Company PowerBI Interactive Dashboard 
-image: "/posts/path-digital-tR0jvlsmCuQ-unsplash.jpg"
-tags: [PowerBI]
----
 
 In this mini project I analysed data of an eCommerce company. Because of the need to significantly increase inventory of the most profitable clothing items for the next season, I created a PowerBI dashboard and made recommendations based on my analysis as requested by the head of data and insights.
 
@@ -21,7 +16,7 @@ After making sure that all the variable types are suitable for the analysis, I u
 #### Analysis
 I created a bar chart displaying the top 5 most profitable items: Full-Finger Gloves, Women’s Tights, Men’s Bib-Shorts, Men’s Sports Shorts, and Long-Sleeve Logo Jersey. Next, I generated a table that includes product SKUs (with sizes), keys, product names, colors, and total profits. Finally, I designed a grouped bar chart to visualize the product names and their profits over time. The dashboard is interactive, allowing us to click on the bars and refer to the table for the product information (SKUs, color, size, etc.) regarding Q2 and Q3 stock, for example.
 #### Dashboard
-![dashboard](/img/posts/dashboard2.png "dashboard") 
+![dashboard](/img/dashboard2.png "dashboard") 
 
 #### Recommendations:
 • Most profitable clothing items of all times are Full-Finger Gloves, Women's Tights, Men's Bib-Shorts, Men's Sports Shorts, and Long-Sleeve Logo Jersey\
@@ -31,7 +26,7 @@ I created a bar chart displaying the top 5 most profitable items: Full-Finger Gl
 #### Interactive Dashboard
 <iframe title="Dashboard day project" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=67ccd2f0-b1b4-4995-afdb-9f1a65317abd&autoAuth=true&ctid=15830474-cef0-4326-88db-96e5ab019d8a" frameborder="0" allowFullScreen="true"></iframe>
 
----
-Banner photo source: pathdigital/Unsplash
+
+
 
 
