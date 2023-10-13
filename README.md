@@ -15,6 +15,7 @@ After making sure that all the variable types are suitable for the analysis, I u
 
 #### Analysis
 I created a bar chart displaying the top 5 most profitable items: Full-Finger Gloves, Women’s Tights, Men’s Bib-Shorts, Men’s Sports Shorts, and Long-Sleeve Logo Jersey. Next, I generated a table that includes product SKUs (with sizes), keys, product names, colors, and total profits. Finally, I designed a grouped bar chart to visualize the product names and their profits over time. The dashboard is interactive, allowing us to click on the bars and refer to the table for the product information (SKUs, color, size, etc.) regarding Q2 and Q3 stock, for example.
+
 #### Dashboard
 ![dashboard](/img/dashboard2.png "dashboard") 
 
